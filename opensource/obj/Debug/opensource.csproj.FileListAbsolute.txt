@@ -1,0 +1,10 @@
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\bin\Debug\opensource.exe.config
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\bin\Debug\opensource.exe
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\bin\Debug\opensource.pdb
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.csprojResolveAssemblyReference.cache
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.Form1.resources
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.Properties.Resources.resources
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.csproj.GenerateResource.cache
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.csproj.CoreCompileInputs.cache
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.exe
+C:\Users\m11ro\Desktop\Made By Kyle\opensource\opensource\obj\Debug\opensource.pdb
